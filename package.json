@@ -1,6 +1,6 @@
 {
   "name": "greetingslibrary",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Greetings NodeJS Library",
   "main": "index.js",
   "scripts": {
