@@ -1,0 +1,12 @@
+{
+  "name": "greetingslibrary",
+  "version": "0.1.0",
+  "description": "Greetings NodeJS Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "diegopm2000-boilerplate/greetingslibrary",
+  "author": "Diego Perez Molinero",
+  "license": "ISC"
+}
